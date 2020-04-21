@@ -1,2 +1,2 @@
 # junit5-records
-A demo of JUnit 5 parameterized tests using Java 14 records.
+A demo of JUnit 5 parameterized tests using Java 14 records. Source code for the article [JUnit 5 with Java 14 Records](https://medium.com/@forketyfork/junit-5-with-java-14-records-80cbab29ef35)
